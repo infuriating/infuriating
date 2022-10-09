@@ -1,16 +1,13 @@
-### Hi there 👋
+# ✨ Welcome to my **profile** ✨
 
-<!--
-**infuriating/infuriating** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 I am a student at **Grafisch Lyceum Rotterdam**, following the **Software Developer** course.
 
-Here are some ideas to get you started:
+##### 🤔 Well, what else do I do?
+- 🗿 Motion Design
+- 📸 Image Manipulation
+- 📹 Video Editing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### ⚡ My Socials
+🔵 [Discord](https://discordapp.com/users/161948341461057536) <sub>will only work on browser</sub>
+🔴 [Youtube](https://youtube.com/infuriatingx1)
+⚫ [Steam](https://steamcommunity.com/id/infuriatingx1)
