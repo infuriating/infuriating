@@ -8,6 +8,6 @@
 - 📹 Video Editing
 
 ##### ⚡ My Socials
-🔵 [Discord](https://discordapp.com/users/161948341461057536) <sub>will only work on browser</sub>
-🔴 [Youtube](https://youtube.com/infuriatingx1)
-⚫ [Steam](https://steamcommunity.com/id/infuriatingx1)
+🔵 [Discord](https://discordapp.com/users/161948341461057536) <sub>will only work on browser</sub>  
+🔴 [Youtube](https://youtube.com/infuriatingx1)  
+⚫ [Steam](https://steamcommunity.com/id/infuriatingx1)  
