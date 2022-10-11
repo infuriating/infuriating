@@ -1,6 +1,6 @@
 # ✨ Welcome to my **profile** ✨
 
-### 💻 I am a student at **Grafisch Lyceum Rotterdam**, following the **Software Engineer** course.
+### 💻 I am a student at **Grafisch Lyceum Rotterdam**, following the **Software Engineering** course.
 
 ##### 🤔 Well, what else do I do?
 - 🗿 Motion Design
