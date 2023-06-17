@@ -1,16 +1,18 @@
-### Hi there 👋
+# ✨ Welcome to my **profile** ✨
 
-<!--
-**infuriating/infuriating** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 I am a second years student at **Grafisch Lyceum Rotterdam**.
 
-Here are some ideas to get you started:
+##### 🤔 What do I do?
+- 🗿 Motion Design
+- 🖥️ Front-End Development
+- 📹 Content Editing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### ⚡ I'm familiar with: 
+- 🚀 HTML, CSS, JS and PHP
+- 🌐 Vue, React, and Lua.
+
+##### 📣 Socials
+🟣 [Discord](https://discordapp.com/users/161948341461057536)<br>
+🔵 [Telegram](https://t.me/subbotter)<br>
+
+#### ☝️ If you want to learn more about me or see my projects, feel free to visit my website @ [infs.world](https://infs.world)
