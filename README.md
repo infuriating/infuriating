@@ -1,4 +1,4 @@
-> 👋🏻 Hey! I'm **Luca Kuiper**!  
+> 👋🏻 Hey! I'm **Luca**!  
 
 I'm a 22-year-old **Full-stack** Web Developer from The Netherlands, currently working as a **Front-end Developer at [ROX](https://rox.nl)**.  
 
